@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 **English**
-**[中文](https://haorenmai.github.io/haorenmai/zh)**
 
 Biography
 ---
