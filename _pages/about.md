@@ -19,6 +19,7 @@ My research currently focuses on deep learning optimizers, especially Muon, and 
 
 Selected Awards
 ---
+* Outstanding Graduate of Wuhan University, 2026
 * Blue Moon Scholarship, 2025 
 * 2nd Prize in the National Final, Chinese Mathematics Competition for College Students, 2025   
 * Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
