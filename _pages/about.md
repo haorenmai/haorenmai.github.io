@@ -12,10 +12,10 @@ I am currently an incoming PhD student under the supervision of [Professor Jian-
 
 I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization. 
 
-**Selected Awards**<br>
+### Selected Awards
 Outstanding Graduate of Wuhan University <br>
 Blue Moon Scholarship, 2025 <br>
-National 2nd Prize, Final of 16th Chinese Mathematics Competition for College Students <br>
+National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students <br>
 Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023 <br>
-1st Prize in Guangdong, 35th Chinese Chemistry Olympaid <br>
+1st Prize in Guangdong @ 35th Chinese Chemistry Olympaid <br>
 
