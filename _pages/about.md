@@ -10,25 +10,12 @@ redirect_from:
 
 I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/) at [HKUST](https://hkust.edu.hk/), and a year-4 undergraduate student in Mathematics at Wuhan University, with a [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/252](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).  
 
-I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization.
+I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization. 
 
-Selected Awards
----
+**Selected Awards**<br>
 Outstanding Graduate of Wuhan University <br>
 Blue Moon Scholarship, 2025 <br>
 National 2nd Prize, Final of 16th Chinese Mathematics Competition for College Students <br>
 Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023 <br>
 1st Prize in Guangdong, 35th Chinese Chemistry Olympaid <br>
-
-Personal Information
----
-* Citizen: The People's Republic of China  
-* Language: English (IELTS Band 6.5), Mandarin (Native), Cantonese (Native)  
-* Visa: US (B1/B2 until 2036)  
-
-Contact
----
-* WeChat: mh201707201711  
-* QQ: 2814303480  
-* Email: houyanmak@whu.edu.cn  
 
