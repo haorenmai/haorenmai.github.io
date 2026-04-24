@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "Haoren Mai"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +12,7 @@ Biography
 ---
 I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/) at [HKUST](https://hkust.edu.hk/), and a year-4 undergraduate student in Mathematics at Wuhan University, with a [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/252](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).  
 
-My research currently focuses on deep learning optimizers, especially Muon, and I have been dedicated to find the truth behind deep learning optimizers, develop a unified theory for deep learning optimizers, and design advanced optimizers.
+I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization.
 
 Selected Awards
 ---
