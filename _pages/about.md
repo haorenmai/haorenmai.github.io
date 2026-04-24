@@ -16,10 +16,14 @@ I am currently interested in understanding and advancing Deep Learning Optimizer
 
 Selected Awards
 ---
-Outstanding Graduate of Wuhan University
+Outstanding Graduate of Wuhan University 
+
 Blue Moon Scholarship, 2025 
-National 2nd Prize, Final of 16th Chinese Mathematics Competition for College Students   
-Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023
+
+National 2nd Prize, Final of 16th Chinese Mathematics Competition for College Students 
+
+Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023 
+
 1st Prize in Guangdong, 35th Chinese Chemistry Olympaid
 
 Personal Information
