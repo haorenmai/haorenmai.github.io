@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/) at HKUST, and a year-4 undergraduate student in Mathematics at Wuhan University, with a [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/252](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).  
 
-I have interned at [Department of Mathematics, HKUST](https://github.com/haorenmai/haorenmai.github.io/assets/HKUSTINTERN.pdf).
+Previously, I have interned at [Department of Mathematics, HKUST](https://github.com/haorenmai/haorenmai.github.io/assets/HKUSTINTERN.pdf).
 
 I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization. 
 
