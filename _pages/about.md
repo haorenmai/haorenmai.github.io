@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Haoren Mai"
 author_profile: true
 redirect_from: 
   - /about/
