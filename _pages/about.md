@@ -21,4 +21,4 @@ National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Stud
 Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
 1st Prize in Guangdong @ 35th Chinese Chemistry Olympiad. <br>
 
-[for_the_next_big_thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG)
+![for_the_next_big_thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG)
