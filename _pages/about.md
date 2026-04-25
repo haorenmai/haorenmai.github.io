@@ -24,5 +24,4 @@ Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
 
 ### Precious Photos
 [For the Next Big Thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG)
-San Jose, CA, United States <br>
-March 2, 2026, Pacific Time <br>
+San Jose, CA, United States, March 2, 2026, Pacific Time <br>
