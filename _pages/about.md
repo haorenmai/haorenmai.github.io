@@ -18,6 +18,7 @@ I am currently interested in understanding and advancing Deep Learning Optimizer
 Outstanding Graduate of Wuhan University. <br>
 Blue Moon Scholarship, 2025. <br>
 National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students. <br>
+1st Prize in Hubei @ 16th Chinese Mathematics Competition for College Students. <br>
 Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
 1st Prize in Guangdong @ 35th Chinese Chemistry Olympiad. <br>
 
