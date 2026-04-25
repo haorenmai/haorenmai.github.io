@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://www.math.hkust.edu.hk/~jfcai/) at HKUST, and a year-4 undergraduate student in Mathematics at Wuhan University, with a [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/252](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).  
+I am currently an incoming PhD student under the supervision of [Professor Jian-Feng Cai](https://scholar.google.com/citations?user=Mo4v5iwAAAAJ&hl=en) at HKUST, and a year-4 undergraduate student in Mathematics at Wuhan University, with a [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/252](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).  
 
 Previously, I have interned at [Department of Mathematics, HKUST](https://haorenmai.github.io/assets/HKUSTINTERN.pdf).
 
