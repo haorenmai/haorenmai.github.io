@@ -22,4 +22,4 @@ Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
 1st Prize in Guangdong @ 35th Chinese Chemistry Olympiad. <br>
 
 [For the Next Big Thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG) <br>
-San Jose, CA, United States; March 2, 2026(UTC-7).
+San Jose, CA, United States; March 2, 2026(UTC-8).
