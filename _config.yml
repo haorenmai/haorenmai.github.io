@@ -53,7 +53,8 @@ author:
   dribbble         : # Username
   github           : "haorenmai"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")  
+
 
   # Social media
   artstation       : # Username
@@ -74,13 +75,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : houyanmak
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
