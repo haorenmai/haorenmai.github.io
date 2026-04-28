@@ -23,3 +23,5 @@ Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
 
 [For the Next Big Thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG) <br>
 San Jose, CA, United States; March 2, 2026 (UTC-8).
+
+[![Flag Counter](https://s01.flagcounter.com/count2/Wvey/bg_FFFFFF/txt_000000/border_FF0000/columns_8/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/)](https://info.flagcounter.com/Wvey)
