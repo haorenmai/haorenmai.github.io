@@ -11,4 +11,4 @@ Methods of Computing Matrix Sign
 
 Improved Muon Optimizer
 -----
-[NorMuon](NorMuon: Making Muon more efficient and scalable), ICML 2026.
+[NorMuon](https://arxiv.org/abs/2510.05491), ICML 2026.
