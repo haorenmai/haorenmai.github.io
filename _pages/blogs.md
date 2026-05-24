@@ -5,6 +5,6 @@ layout: archive
 author_profile: true
 ---
 
-[A Collection of Papers on Muon Optimizer](https://haorenmai.github.io/blogs/muonpapers.md/)
+[A Collection of Papers on Muon Optimizer](https://haorenmai.github.io/blogs/muonpapers/)
 
 
