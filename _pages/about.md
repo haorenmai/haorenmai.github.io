@@ -14,8 +14,8 @@ Previously, I have interned at [Department of Mathematics, HKUST](https://haoren
 I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization. 
 
 ### Selected Awards
-[Outstanding Bachelor Thesis of Wuhan University](https://maths.whu.edu.cn/info/1081/167532.htm). <br>
-Outstanding Bachelor Graduate of Wuhan University. <br>
+[Outstanding Bachelor's Degree Thesis of Wuhan University](https://maths.whu.edu.cn/info/1081/167532.htm). <br>
+Outstanding Bachelor's Degree Graduate of Wuhan University. <br>
 Blue Moon Scholarship, 2025. <br>
 National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students. <br>
 1st Prize in Hubei @ 16th Chinese Mathematics Competition for College Students. <br>
