@@ -15,7 +15,7 @@ I am currently interested in understanding and advancing Deep Learning Optimizer
 
 ### Selected Awards
 [Outstanding Bachelor's Degree Thesis of Wuhan University](https://maths.whu.edu.cn/info/1081/167532.htm). <br>
-Outstanding Bachelor's Degree Graduate of Wuhan University. <br>
+[Outstanding Bachelor's Degree Graduate of Wuhan University](https://haorenmai.github.io/assets/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A62026%E5%B1%8A%E4%BC%98%E7%A7%80%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%8D%E5%8D%95.docx). <br>
 Blue Moon Scholarship, 2025. <br>
 National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students. <br>
 1st Prize in Hubei @ 16th Chinese Mathematics Competition for College Students. <br>
