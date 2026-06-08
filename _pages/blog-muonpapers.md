@@ -11,6 +11,6 @@ Methods of Computing Matrix Sign
 
 Improved Muon Optimizers
 -----
-[Newton-Muon](https://arxiv.org/abs/2604.01472).
-[Aurora](https://blog.tilderesearch.com/blog/aurora).
+[Newton-Muon](https://arxiv.org/abs/2604.01472).<br>
+[Aurora](https://blog.tilderesearch.com/blog/aurora).<br>
 [NorMuon](https://arxiv.org/abs/2510.05491), ICML 2026.
