@@ -11,14 +11,14 @@ I am currently an incoming Ph.D. student under the supervision of [Professor Jia
 Previously, I have interned at [Department of Mathematics, HKUST](https://haorenmai.github.io/assets/HKUSTINTERN.pdf). <br><br>
 I am currently interested in understanding and advancing Deep Learning Optimizers, especially Muon. I am also interested in topics like High Performance Computing and Quantization.
 ### Selected Awards
-[Rank #2 out of 253 students, Full Tuition Refund for the Top 1% Graduates, Wuhan University](https://maths.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=168012).<br>
-[Outstanding Bachelor's Degree Thesis of Wuhan University](https://maths.whu.edu.cn/info/1081/167532.htm). <br>
-[Outstanding Bachelor's Degree Graduate of Wuhan University](https://haorenmai.github.io/assets/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A62026%E5%B1%8A%E4%BC%98%E7%A7%80%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%8D%E5%8D%95.docx). <br>
-Blue Moon Scholarship, 2025. <br>
-National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students. <br>
-1st Prize in Hubei @ 16th Chinese Mathematics Competition for College Students. <br>
-Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
-1st Prize in Guangdong @ 35th Chinese Chemistry Olympiad. <br>
+👑[Rank #2 out of 253 students, Full Tuition Refund for the Top 1% Graduates, Wuhan University](https://maths.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=168012).<br>
+🎓[Outstanding Bachelor's Degree Thesis of Wuhan University](https://maths.whu.edu.cn/info/1081/167532.htm). <br>
+🎓[Outstanding Bachelor's Degree Graduate of Wuhan University](https://haorenmai.github.io/assets/%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A62026%E5%B1%8A%E4%BC%98%E7%A7%80%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E7%94%9F%E5%90%8D%E5%8D%95.docx). <br>
+💰Blue Moon Scholarship, 2025. <br>
+🏆National Final 2nd Prize @ 16th Chinese Mathematics Competition for College Students. <br>
+🏆1st Prize in Hubei @ 16th Chinese Mathematics Competition for College Students. <br>
+💰Wuhan University Outstanding Student Scholarship, 2025, 2024, 2023. <br>
+🏆1st Prize in Guangdong @ 35th Chinese Chemistry Olympiad. <br>
 
 [For the Next Big Thing](https://haorenmai.github.io/assets/for_the_next_big_thing.JPG) <br>
 San Jose, CA, United States; March 2, 2026 (UTC-8).
