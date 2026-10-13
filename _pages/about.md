@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}<br>
 I am currently a Ph.D. student under the supervision of [Professor Jian-Feng Cai](https://scholar.google.com/citations?user=Mo4v5iwAAAAJ&hl=en) at HKUST. I am also a member of an AI startup group. I received B.S. in Mathematics from Wuhan University in 2026, with [GPA of 3.94/4.00](https://haorenmai.github.io/assets/Transcript.pdf), [ranking 2/253](https://haorenmai.github.io/assets/Ranking_Certificate.pdf).<br><br>
+I interned at an AI startup based in Shanghai, where I primarily worked on livestreaming assistant agents and AI VTubers. My work included building benchmarks to evaluate agents, optimizing agent inference efficiency, post-training models, and developing text-to-speech (TTS) capabilities.<br><br>
 I am interested in understanding and advancing the theory of Artificial Intelligence. I am currently doing some research about Deep Learning Optimizers and LLM Pretraining.
 ### Selected Awards
 👑[Rank #2 out of 253 Graduates, Full Tuition Refund for the Top 1% Graduates, Wuhan University](https://maths.whu.edu.cn/content.jsp?urltype=news.NewsContentUrl&wbtreeid=1081&wbnewsid=168012).<br>
